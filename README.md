@@ -1,2 +1,2 @@
-# data-engineering-zoomcamp-exercises
-Assignment solutions for the data engineering zoomcamp 2024 cohort
+# Data Engineering Zoomcamp 2024 - Homework
+The solutions for the different weeks are in their respective folders
